@@ -2,7 +2,7 @@
 - People who don't know about the symptoms were also considered to be asymptomatic. Therefore, asymptomatic infection might be overestimated.<br>
 - How did you get the data of $\alpha$ and $\beta$ ? I did not find them in the study.
 
-** Pouriayevali et al.**<br>
+**Pouriayevali et al.**<br>
 - Sample for sero testing might be 151, not 159 (sample for PCR and serotesting).
 - How did you get the data of symptoms? From Table 1?
 - Data of $\alpha$ and $\beta$ ?
