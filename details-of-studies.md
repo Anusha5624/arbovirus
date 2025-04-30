@@ -19,11 +19,11 @@
 **Loconsole et al.**<br>
 - The study has a low sample (156 individuals). Thus, has to be used with caution.
 - Why are there two rows in Table 1 of the manuscript for the study estimates for CHIKV?
-- Check $\psi_c$. In the Table 1 of the study, out of 9 people infected by CHIKV, 5 were asymptomatic, resulting in $psi_c~0.556$. Also, tell the same for other viruses.
+- Check $\psi_c$. In the Table 1 of the study, out of 9 people infected by CHIKV, 5 were asymptomatic, resulting in $\psi_c \sim 0.556$. Also, tell the same for other viruses.
 
 **Ellis et al.**<br>
 - Current or recent infections were identified using PCR or IgM-based test, respectively.
-- How did you get $psi_c$ and $phi_c$ ? I didn't find any such information.
+- How did you get $\psi_c$ and $\phi_c$ ? I didn't find any such information.
 
 **McBride et al.**<br>
 - Insanely large recall period (>= 2 years) and large set of symptoms that may overlap with other disease. Study was conducted in 1993, but participants were asked for symptoms 1981.
@@ -31,8 +31,28 @@
 
 **Cunha et al.**<br>
 - I think the recall period should be two years, not 1-2 years. We are including the maximum allowed recall period.
-- Check $psi_c$. I guess it should be 0.597 (=1-0.401). Also, how did you get $phi_c$ ?
+- Check $\psi_c$. I guess it should be 0.597 (=1-0.401). Also, how did you get $\phi_c$ ?
 - During the study period, the incidence of other viruses were low.
 
 **Carvalho et al.**<br>
 - Symptom status is not given for CHIKV, but Oropouche virus, which is not of our interest. Check if we drop the study.
+
+**Carabali et al.**<br>
+- I don't think sufficient information of symptom status among infected people is given. Table 4 gives details regarding symptoms, other than fever. How can we say that symptomatic people were/were not symptomatic? There might be overlap between fever and other symptoms. In such a situation, we can think of dropping the study.
+
+**Masyeni et al.**<br>
+- Insufficient information of symptom status is given. We can drop the study.
+
+**Baaten et al.**<br>
+- Very low sample size: 14 DENV infected individuals and out of those only 9 were asymptomatic. We should use this study with caution.
+- Some of the individuals were vaccinated with yellow fever vaccine. This will bias the estimate.
+
+**Mohammed et al.**<br>
+- Study end period should be 15/08/2009 (August)
+
+**GeurtsvanKessel et al.**<br>
+- Symptom status among ZIKA-infected people is not given.
+
+**Tozetto-Mendoza et al.**<br>
+- The entire sample has symptomatic individuals. Hence, we can drop the study.
+
