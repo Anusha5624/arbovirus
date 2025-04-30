@@ -1,8 +1,9 @@
 Following measures to be taken:
 1. Write details of studies: Random sampling, sample frame (general population or any specific population), how the data was extracted, country (or region), age groups, symptoms used, test details (type of antibodies tested, infection in numbers (number of seropositives, asymptomatic infected people, asymptomatic seronegative people), time period of outbreak, number of national/regional/local studies, recall period
 2. Studies of interest:
-Many studies are cited by the included studies, especially in introduction or discussion section. Generally, the cited studies give similar estimates, and including such might give us consistent estimates. For example, see the following studies:
-   *Sergon K, Yahaya AA, Brown J, Bedja SA, Mlindasse M, et al. (2007)
+Many studies are cited by the included studies, especially in introduction or discussion section. Generally, the cited studies give similar estimates, and including such might give us consistent estimates. For example, see the following studies:<br>
+
+*Sergon K, Yahaya AA, Brown J, Bedja SA, Mlindasse M, et al. (2007)
 Seroprevalence of Chikungunya virus infection on Grande Comore Island,
 union of the Comoros, 2005. Am J Trop Med Hyg 76: 1189–1193.*
 
