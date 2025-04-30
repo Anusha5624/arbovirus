@@ -1,6 +1,6 @@
-**Sissoko et al.**<br>
+**Sissoko et al.**<br> Done
 - People who don't know about the symptoms were also considered to be asymptomatic. Therefore, asymptomatic infection might be overestimated.<br>
-- How did you get the data of $\alpha$ and $\beta$ ? I did not find them in the study.
+- How did you get the data of $\alpha$ and $\beta$ ? I did not find them in the study - The data is from the reference mentioned in the paper. I calculated it using the formula
 
 **Pouriayevali et al.**<br>
 - Sample for sero testing might be 151, not 159 (sample for PCR and serotesting).
@@ -35,9 +35,9 @@
 - During the study period, the incidence of other viruses were low.
 
 **Carvalho et al.**<br>
-- Symptom status is not given for CHIKV, but Oropouche virus, which is not of our interest. Check if we drop the study.
+- Symptom status is not given for CHIKV, but Oropouche virus, which is not of our interest. Check if we drop the study - Yes we can drop this, in the ArboTracker table Chikungunya was mentioned.
 
-**Carabali et al.**<br>
+**Carabali et al.**<br> Done
 - I don't think sufficient information of symptom status among infected people is given. Table 4 gives details regarding symptoms, other than fever. How can we say that symptomatic people were/were not symptomatic? There might be overlap between fever and other symptoms. In such a situation, we can think of dropping the study.
 
 **Masyeni et al.**<br>
@@ -47,7 +47,7 @@
 - Very low sample size: 14 DENV infected individuals and out of those only 9 were asymptomatic. We should use this study with caution.
 - Some of the individuals were vaccinated with yellow fever vaccine. This will bias the estimate.
 
-**Mohammed et al.**<br>
+**Mohammed et al.**<br> done
 - Study end period should be 15/08/2009 (August)
 
 **GeurtsvanKessel et al.**<br>
