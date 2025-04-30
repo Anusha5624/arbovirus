@@ -1,6 +1,6 @@
-**Sissoko et al.**<br>
+**Sissoko et al.**<br> Done
 - People who don't know about the symptoms were also considered to be asymptomatic. Therefore, asymptomatic infection might be overestimated.<br>
-- How did you get the data of $\alpha$ and $\beta$ ? I did not find them in the study.
+- How did you get the data of $\alpha$ and $\beta$ ? I did not find them in the study. **It is from the reference mentioned in the paper**<br>
 
 **Pouriayevali et al.**<br>
 - Sample for sero testing might be 151, not 159 (sample for PCR and serotesting).
@@ -34,8 +34,8 @@
 - Check $\psi_c$. I guess it should be 0.597 (=1-0.401). Also, how did you get $\phi_c$ ?
 - During the study period, the incidence of other viruses were low.
 
-**Carvalho et al.**<br>
-- Symptom status is not given for CHIKV, but Oropouche virus, which is not of our interest. Check if we drop the study.
+**Carvalho et al.**<br> Done
+- Symptom status is not given for CHIKV, but Oropouche virus, which is not of our interest. Check if we drop the study. Yes, we can drop it
 
 **Carabali et al.**<br>
 - I don't think sufficient information of symptom status among infected people is given. Table 4 gives details regarding symptoms, other than fever. How can we say that symptomatic people were/were not symptomatic? There might be overlap between fever and other symptoms. In such a situation, we can think of dropping the study.
