@@ -56,3 +56,23 @@
 **Tozetto-Mendoza et al.**<br>
 - The entire sample has symptomatic individuals. Hence, we can drop the study.
 
+**Lozier et al.**<br>
+-  Check the study start date: it is Sept 16, 2016.
+-  Why not considering symptoms other than fever, rash, arthralgia, and artritis (Table S3)?
+-  Symptom status information was not explicit for seropositives.
+
+**Duffy et al.**<br>
+-  Symptom status information was not explicit for seropositives.
+ 
+**Mostashari et al.**<br>
+- Every is okay, but the sample size is very low, $\sim13$ asynptomatic infected individuals.
+
+**Shin et al.**<br>
+- Symptom status is not given for WNV.
+- Sample size is too low: $n=31$ and four seropositives. We should drop the study.
+
+**Karakoc et al.**<br>
+- Overall symptom status is not given (Table 1), and symptom overlap can take place. For example, individual with fever can have headache and so on. Check if the study can be dropped.
+
+- 
+
