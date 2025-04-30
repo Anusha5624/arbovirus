@@ -1,6 +1,7 @@
 Following measures to be taken:
 1. Write details of studies: Random sampling, sample frame (general population or any specific population), how the data was extracted, country (or region), age groups, symptoms used, test details (type of antibodies tested, infection in numbers (number of seropositives, asymptomatic infected people, asymptomatic seronegative people), time period of outbreak, number of national/regional/local studies, recall period
 2. Studies of interest:
+Many studies are cited by the included studies, especially in introduction or discussion section. Generally, the cited studies give similar estimates, and including such might give us consistent estimates. For example, see the following studies:
    *Sergon K, Yahaya AA, Brown J, Bedja SA, Mlindasse M, et al. (2007)
 Seroprevalence of Chikungunya virus infection on Grande Comore Island,
 union of the Comoros, 2005. Am J Trop Med Hyg 76: 1189–1193.*
@@ -76,6 +77,10 @@ Transfusion 2003, 43:1007-1017.*
 *CDC: Information and guidance for clinicians – West Nile
 virus: clinical description, 2004. [http://www.cdc.gov/ncidod/
 dvbid/westnile/clinicians/pdf/wnv-clinicaldescription.pdf].*
+
+*Sergon K, Njuguna C, Kalani R, Ofula V, Onyango C 2008. Sero-
+prevalence of Chikungunya virus (CHIKV) infection on Lamu
+Island, Kenya, 2004. Am J Trop Med Hyg 78: 333-337.*
 
 3. What do you have to say about overlap of symptoms? How common are the symptoms of different arboviruses? Take a note if the included studies have taken necessary consideration for the overlap. For example, Sissoko et al. said that although symptoms like fever are common between CHIKV and dengue but incidence of dengue was rare during the period of investigation.
 
