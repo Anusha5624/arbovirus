@@ -74,5 +74,3 @@
 **Karakoc et al.**<br>
 - Overall symptom status is not given (Table 1), and symptom overlap can take place. For example, individual with fever can have headache and so on. Check if the study can be dropped.
 
-- 
-
